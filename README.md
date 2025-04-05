@@ -12,6 +12,21 @@
 
 <br>
 
+> [!IMPORTANT]
+> **🚫 Ethical Restrictions**
+> 
+> My works cannot be used in:
+> 
+> - Military applications or systems  
+> - Surveillance technologies  
+> - Any activity violating human rights  
+
+<br>
+
+---
+
+<br>
+
 ## 🧠 Features
 
 - 🗣️ Text To Speech  
